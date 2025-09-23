@@ -18,8 +18,10 @@ This repository showcases my competencies and applied experience in **clinical t
 
 ## 🌍 Therapeutic Areas  
 - Metabolic & Liver Disease (*NAFLD, PNPLA3 genotype studies*)  
-- Oncology (*anticancer agents, breast & Liver cancer models*)  
+- Oncology (*anticancer polysaccharides, breast cancer models*)  
 - Immunology & Infectious Disease  
 
 ## 📌 Note  
 All documents in this repository are **educational portfolio samples**. Sensitive information has been anonymized to comply with **confidentiality and data protection standards**.  
+
+  
