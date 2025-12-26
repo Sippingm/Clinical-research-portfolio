@@ -6,10 +6,10 @@ My background includes over 15 peer-reviewed publications, grant-funded projects
 
 Current Focus: Clinical Trial Operations • SSU • Protocol Analysis • Feasibility • Monitoring • Regulatory Compliance 
 
-## Project: GZOA Part B Study - Site Activation & Feasibility
+## Project: GZB Study - Site Activation & Feasibility
 
 ### 1. Protocol Dissection & Comprehension
-Activity: Conducted an in-depth review and presentation of the GZOA Part B study protocol.
+Activity: Conducted an in-depth review and presentation of the GZB study protocol.
 
 Skills Demonstrated:
 
@@ -30,7 +30,7 @@ Made data-driven recommendations on site acceptability.
 
 Applied Phase I-specific feasibility criteria.
 
-### 4. Site Selection & Assignment (GZOA Part B)
+### 4. Site Selection & Assignment
 
 Activity: Reviewed and documented operational insights for 10 assigned sites.
 
